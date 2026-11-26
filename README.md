@@ -16,7 +16,7 @@ It writes a single line to `/output/entry.txt`.
 
 ## The line
 
-> Your entire bug report was 'it doesn't work'. No logs, no steps, no screenshot — just vibes.
+> You asked me to 'be creative', then rejected twelve ideas because none of them was the one in your head.
 
 ## License
 
